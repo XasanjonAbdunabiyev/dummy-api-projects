@@ -1,0 +1,15 @@
+.main__todos_insede {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 20px;
+	flex-wrap: wrap;
+	margin: 20px 0;
+	div {
+		cursor: pointer;
+	}
+}
+
+.todos__container {
+	margin: 10px 0;
+}
